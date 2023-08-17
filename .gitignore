@@ -1,0 +1,5 @@
+bing_translations/
+google_translations/
+etc/
+__pycache__/
+modules/albef.py
